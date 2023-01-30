@@ -1,0 +1,6 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/sbh69840/word24.git
+  tag: ff05a49bfb041214f9be34cb1127f7f05da86d15
